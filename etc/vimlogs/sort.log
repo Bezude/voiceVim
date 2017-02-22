@@ -1,0 +1,1 @@
+iimport sysf = open(sys.ar(1), 'r+')all_lines = []for€kb€kb€kbwhile line = f.read€kb€kb€kb€kbx€kblareadline():all_lines.ap(line)€kball_lines.s()kd2kkwwdwalist(f)kBd0iwith $a as f:jVj>jofor line in all_lines:f.write(€kbline(line)kkof.seek(0)jjokww5llde:wkjjdd:w3ggWWhhhhhr[[lllr]:w:q

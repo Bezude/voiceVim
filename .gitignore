@@ -1,0 +1,50 @@
+#Project files
+[Bb]uild/
+
+#assets
+img/
+obj/
+
+#Test file
+test.cpp
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.[Oo]bj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Audio Data
+*.wav
+*.mfc

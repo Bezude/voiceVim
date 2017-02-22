@@ -1,0 +1,115 @@
+! bang
+" quote
+# previous
+$ dolla
+% match
+' tick
+\x02 egap
+\x04 forward
+\x06 page
+\x09 tab
+\x0d enter
+\x12 redo
+\x15 backward
+\x16 visual-block
+\x1b escape
+\x20 space
+\x5c hsals
+\x80 {"b": "shoop", "d": "south", "l": "west", "r": "east", "u": "north"}
+( paren
+) nerap
+* {"insert": "times", "normal": "next", "visual": "next"}
++ plus
+, comma
+- minus
+. {"insert": "dot", "normal": "again", "visual": "again"}
+/ slash
+0 zero
+1 one
+2 two
+3 three
+4 four
+5 five
+6 six
+7 seven
+8 eight
+9 nine
+: colon
+:w {"insert": "colon whiskey", "normal": "save", "visual": "save"}
+:q {"insert": "colon quebec", "normal": "quit", "visual": "quit"}
+< lesser
+= equals
+> greater
+? question
+A capitalize alpha
+B {"insert": "capitalize bravo", "normal": "bigback", "visual": "bigback"}
+C capitalize charlie
+D capitalize delta
+E capitalize echo
+F {"insert": "capitalize foxtrot", "normal": "kees", "visual": "kees"}
+False false
+G {"insert": "capitalize golf", "normal": "fileend", "visual": ""}
+H {"insert": "capitalize hotel", "normal": "high", "visual": "high"}
+I capitalize india
+J capitalize juliet
+K capitalize kilo
+L {"insert": "capitalize lima", "normal": "low", "visual": "low"}
+M {"insert": "capitalize mike", "normal": "middle", "visual": "middle"}
+N capitalize november
+O capitalize oscar
+P {"insert": "capitalize papa", "normal": "paste", "visual": ""}
+Q capitalize quebec
+R capitalize romeo
+S capitalize sierra
+T capitalize tango
+True true
+U capitalize uniform
+V {"insert": "capitalize victor", "normal": "visualline", "visual": "escape"}
+W {"insert": "capitalize whiskey", "normal": "bigword", "visual": "bigword"}
+X capitalize xray
+Y capitalize yankee
+Z capitalize zulu
+[ bracket
+] tekcarb
+^ carrot
+_ score
+a {"insert": "alpha", "normal": "append", "visual": ""}
+and and
+b {"insert": "bravo", "normal": "back", "visual": "back"}
+c charlie
+d {"insert": "delta", "normal": "delete", "visual": "delete"}
+def define
+e {"insert": "echo", "normal": "end", "visual": "end"}
+elif elif
+else else
+f {"insert": "foxtrot", "normal": "seek", "visual": ""}
+for iterate
+g {"insert": "golf", "normal": "", "visual": ""}
+gg {"insert": "golf golf", "normal": "goto", "visual": "goto"}
+h {"insert": "hotel", "normal": "left", "visual": "left"}
+i {"insert": "india", "normal": "insert", "visual": "insert"}
+if if
+j {"insert": "juliet", "normal": "down", "visual": "down"}
+k {"insert": "kilo", "normal": "up", "visual": "up"}
+l {"insert": "lima", "normal": "right", "visual": "right"}
+m mike
+n november
+o {"insert": "oscar", "normal": "newline", "visual": "newline"}
+or or
+p {"insert": "papa", "normal": "", "visual": ""}
+q quebec
+r {"insert": "romeo", "normal": "replace", "visual": "replace"}
+return return
+s sierra
+t tango
+u {"insert": "uniform", "normal": "undo", "visual": "undo"}
+v {"insert": "victor", "normal": "visualmode", "visual": "escape"}
+w {"insert": "whiskey", "normal": "word", "visual": "word"}
+while while
+x xray
+y {"insert": "yankee", "normal": "copy", "visual": "copy"}
+z zulu
+{ curly
+} ylruc
+~ tilde
+

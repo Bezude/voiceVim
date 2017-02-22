@@ -1,0 +1,146 @@
+Current configuration:
+[NAME]			[DEFLT]		[VALUE]
+-alpha			0.97		9.700000e-01
+-argfile				
+-blocksize		2048		2048
+-build_outdirs		yes		yes
+-c					/Users/benroye/forge/cmusphinx/voiceVim/etc/voiceVim_train.fileids
+-cep2spec		no		no
+-di					/Users/benroye/forge/cmusphinx/voiceVim/wav
+-dither			no		no
+-do					/Users/benroye/forge/cmusphinx/voiceVim/feat
+-doublebw		no		no
+-ei					wav
+-eo					mfc
+-example		no		no
+-frate			100		100
+-help			no		no
+-i					
+-input_endian		little		little
+-lifter			0		22
+-logspec		no		no
+-lowerf			133.33334	1.300000e+02
+-mach_endian		little		little
+-mswav			no		yes
+-ncep			13		13
+-nchans			1		1
+-nfft			512		512
+-nfilt			40		25
+-nist			no		no
+-npart			0		4
+-nskip			0		0
+-o					
+-ofmt			sphinx		sphinx
+-part			0		2
+-raw			no		no
+-remove_dc		no		no
+-remove_noise		yes		yes
+-remove_silence		yes		yes
+-round_filters		yes		yes
+-runlen			-1		-1
+-samprate		16000		1.600000e+04
+-seed			-1		-1
+-smoothspec		no		no
+-spec2cep		no		no
+-sph2pipe		no		no
+-transform		legacy		dct
+-unit_area		yes		yes
+-upperf			6855.4976	6.800000e+03
+-vad_postspeech		50		50
+-vad_prespeech		20		20
+-vad_startspeech	10		10
+-vad_threshold		3.0		3.000000e+00
+-verbose		no		no
+-warp_params				
+-warp_type		inverse_linear	inverse_linear
+-whichchan		0		0
+-wlen			0.025625	2.562500e-02
+
+INFO: sphinx_fe.c(966): Processing 86 utterances at position 86
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/quote_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/quote_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/redo_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/redo_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/replace_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/replace_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/return_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/return_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/right_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/right_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/romeo_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/romeo_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/save_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/save_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/score_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/score_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/seek_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/seek_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/seven_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/seven_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/shift_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/shift_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/shoop_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/shoop_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/sierra_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/sierra_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/six_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/six_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/slash_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/slash_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/snore_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/snore_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/south_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/south_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/space_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/space_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/spell_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/spell_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/tab_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/tab_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/tango_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/tango_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/tekcarb_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/tekcarb_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/tfihs_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/tfihs_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/three_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/three_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/tick_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/tick_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/tilde_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/tilde_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/times_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/times_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/true_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/true_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/two_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/two_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/undo_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/undo_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/uniform_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/uniform_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/up_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/up_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/victor_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/victor_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/visualblock_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/visualblock_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/visualline_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/visualline_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/visualmode_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/visualmode_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/wake_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/wake_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/west_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/west_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/while_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/while_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/whiskey_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/whiskey_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/word_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/word_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/xray_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/xray_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/yankee_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/yankee_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/ylruc_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/ylruc_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/zero_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/zero_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/zulu_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/zulu_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/1_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/1_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/2_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/2_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/3_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/3_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/4_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/4_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/6_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/6_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/7_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/7_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/8_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/8_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/9_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/9_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/11_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/11_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/12_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/12_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/13_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/13_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/14_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/14_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/16_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/16_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/17_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/17_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/18_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/18_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/19_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/19_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/21_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/21_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/22_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/22_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/23_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/23_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/24_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/24_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/26_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/26_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/27_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/27_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/28_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/28_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/29_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/29_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/31_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/31_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/32_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/32_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/33_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/33_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/34_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/34_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/36_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/36_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/37_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/37_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/38_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/38_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/39_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/39_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/41_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/41_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/42_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/42_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/43_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/43_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/44_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/44_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/46_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/46_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/47_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/47_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/48_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/48_0.mfc
+INFO: sphinx_fe.c(790): Converting /Users/benroye/forge/cmusphinx/voiceVim/wav/cleaned/49_0.wav to /Users/benroye/forge/cmusphinx/voiceVim/feat/cleaned/49_0.mfc
+Mon Jan 30 07:34:57 2017

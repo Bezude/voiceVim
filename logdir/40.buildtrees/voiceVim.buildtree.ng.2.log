@@ -1,0 +1,113 @@
+Current configuration:
+[NAME]		[DEFLT]	[VALUE]
+-allphones	no	no
+-cntthresh	0.00001	1.000000e-05
+-csplitmax	100	2000
+-csplitmin	1	1
+-csplitthr	8e-4	0.000000e+00
+-example	no	no
+-fullvar	no	no
+-help		no	no
+-meanfn			/Users/benroye/forge/cmusphinx/voiceVim/model_parameters/voiceVim.cd_cont_untied/means
+-mixwfn			/Users/benroye/forge/cmusphinx/voiceVim/model_parameters/voiceVim.cd_cont_untied/mixture_weights
+-moddeffn		/Users/benroye/forge/cmusphinx/voiceVim/model_architecture/voiceVim.untied.mdef
+-mwfloor	1e-4	1.000000e-08
+-phone			ng
+-psetfn			/Users/benroye/forge/cmusphinx/voiceVim/model_architecture/voiceVim.tree_questions
+-ssplitmax	5	7
+-ssplitmin	1	1
+-ssplitthr	8e-4	0.000000e+00
+-state			2
+-stwt			1.0,0.05,0.0,
+-treefn			/Users/benroye/forge/cmusphinx/voiceVim/trees/voiceVim.unpruned/ng-2.dtree
+-ts2cbfn	.semi.	.cont.
+-varfloor	0.00001	1.000000e-05
+-varfn			/Users/benroye/forge/cmusphinx/voiceVim/model_parameters/voiceVim.cd_cont_untied/variances
+
+INFO: main.c(223): Reading: /Users/benroye/forge/cmusphinx/voiceVim/model_architecture/voiceVim.untied.mdef
+INFO: model_def_io.c(573): Model definition info:
+INFO: model_def_io.c(574): 2249 total models defined (39 base, 2210 tri)
+INFO: model_def_io.c(575): 8996 total states
+INFO: model_def_io.c(576): 6747 total tied states
+INFO: model_def_io.c(577): 117 total tied CI states
+INFO: model_def_io.c(578): 39 total tied transition matrices
+INFO: model_def_io.c(579): 4 max state/model
+INFO: model_def_io.c(580): 4 min state/model
+INFO: main.c(242): Building trees for [ng ay SIL e] through [ng ay p e]
+INFO: main.c(269): Covering states |[3567 3587]| == 21
+INFO: main.c(275): Reading: /Users/benroye/forge/cmusphinx/voiceVim/model_parameters/voiceVim.cd_cont_untied/mixture_weights
+INFO: s3mixw_io.c(173): Read /Users/benroye/forge/cmusphinx/voiceVim/model_parameters/voiceVim.cd_cont_untied/mixture_weights [21x1x1 array]
+INFO: main.c(311): 7 of 7 models have observation count greater than 0.000010
+INFO: main.c(95): nrm stwt: 0.000 0.048 0.952 
+INFO: s3gau_io.c(169): Read /Users/benroye/forge/cmusphinx/voiceVim/model_parameters/voiceVim.cd_cont_untied/means [6747x1x1 array]
+INFO: s3gau_io.c(169): Read /Users/benroye/forge/cmusphinx/voiceVim/model_parameters/voiceVim.cd_cont_untied/variances [6747x1x1 array]
+INFO: main.c(549): Reading: /Users/benroye/forge/cmusphinx/voiceVim/model_architecture/voiceVim.tree_questions
+INFO: main.c(588): 174 total simple questions (166 phone; 8 word bndry)
+INFO: main.c(590): 40 Left Only questions, and 42 Right Only questions
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION11 1 -1.398e+05 8.489e+02 6.901e+02
+|    ( - -1.262e+05 1 0)
+|    ( QUESTION0_9_R 1 -1.274e+04 4.434e+02 6.108e+01
+|        ( - 1.868e+02 1 0)
+|        ( QUESTION0_7_R 1 -1.249e+04 2.422e+02 6.008e+01
+|            ( - -1.369e+03 2 0)
+|            ( QUESTION0_6_R 1 -1.087e+04 1.786e+02 5.208e+01
+|                ( - -8.358e+02 1 0)
+|                ( WDBNDRY_E 0 -9.860e+03 1.463e+02 4.708e+01
+|                    ( - -4.924e+02 1 0)
+|                    ( - -9.221e+03 1 0))))))
+s>    ( QUESTION11 1 -1.398e+05 8.489e+02 6.901e+02
+s>        ( - -1.262e+05 1 0)
+s>        ( QUESTION0_9_R 1 -1.274e+04 4.434e+02 6.108e+01
+s>            ( - 1.868e+02 1 0)
+s>            ( QUESTION0_7_R 1 -1.249e+04 2.422e+02 6.008e+01
+s>                ( - -1.369e+03 2 0)
+s>                ( QUESTION0_6_R 1 -1.087e+04 1.786e+02 5.208e+01
+s>                    ( - -8.358e+02 1 0)
+s>                    ( WDBNDRY_E 0 -9.860e+03 1.463e+02 4.708e+01
+s>                        ( - -4.924e+02 1 0)
+s>                        ( - -9.221e+03 1 0))))))INFO: dtree.c(1315): Comp split 0
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION0_7_R 1 -1.012e+04 4.470e+02 4.808e+01
+|    ( - 1.868e+02 1 0)
+|    ( WDBNDRY_E 0 -9.860e+03 1.463e+02 4.708e+01
+|        ( - -4.924e+02 1 0)
+|        ( - -9.221e+03 1 0)))
+s>    ( QUESTION0_7_R 1 -1.012e+04 4.470e+02 4.808e+01
+s>        ( - 1.868e+02 1 0)
+s>        ( WDBNDRY_E 0 -9.860e+03 1.463e+02 4.708e+01
+s>            ( - -4.924e+02 1 0)
+s>            ( - -9.221e+03 1 0)))INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( WDBNDRY_E 0 -1.288e+05 2.584e+02 6.420e+02
+|    ( QUESTION0_1_R 1 -2.358e+03 1.526e+02 1.300e+01
+|        ( - -8.358e+02 1 0)
+|        ( - -1.369e+03 2 0))
+|    ( - -1.262e+05 1 0))
+s>    ( WDBNDRY_E 0 -1.288e+05 2.584e+02 6.420e+02
+s>        ( QUESTION0_1_R 1 -2.358e+03 1.526e+02 1.300e+01
+s>            ( - -8.358e+02 1 0)
+s>            ( - -1.369e+03 2 0))
+s>        ( - -1.262e+05 1 0))INFO: dtree.c(1315): Comp split 1
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( WDBNDRY_E 0 -9.860e+03 1.463e+02 4.708e+01
+|    ( - -4.924e+02 1 0)
+|    ( - -9.221e+03 1 0))
+s>    ( WDBNDRY_E 0 -9.860e+03 1.463e+02 4.708e+01
+s>        ( - -4.924e+02 1 0)
+s>        ( - -9.221e+03 1 0))INFO: dtree.c(1315): Comp split 2
+INFO: dtree.c(1439): stop. leaf nodes are specific
+INFO: dtree.c(1478): Final simple tree
+|( QUESTION0_1_R 1 -2.358e+03 1.526e+02 1.300e+01
+|    ( - -8.358e+02 1 0)
+|    ( - -1.369e+03 2 0))
+s>    ( QUESTION0_1_R 1 -2.358e+03 1.526e+02 1.300e+01
+s>        ( - -8.358e+02 1 0)
+s>        ( - -1.369e+03 2 0))INFO: dtree.c(1315): Comp split 3
+INFO: dtree.c(1315): Comp split 4
+INFO: dtree.c(1315): Comp split 5
+INFO: dtree.c(1318): stop. leaf nodes are specific
+Mon Jan 30 07:35:47 2017

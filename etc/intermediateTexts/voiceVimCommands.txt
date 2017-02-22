@@ -1,0 +1,423 @@
+A list of commands for voice-control vim
+
+WAKE
+SNORE
+
+UP
+DOWN
+LEFT
+RIGHT
+
+DELETE
+REPLACE
+AGAIN
+UNDO
+REDO
+
+WORD
+END
+BACK
+BIGWORD
+BIGBACK
+
+HIGH
+MIDDLE
+LOW
+
+FORWARD
+BACKWARD
+PAGE
+EGAP
+FILE-END
+FILE-BEGIN
+
+GOTO
+SEEK
+KEES
+
+MATCH
+PREVIOUS
+NEXT
+
+VISUAL-MODE
+VISUAL-LINE
+VISUAL-BLOCK
+
+COPY
+CUT
+PASTE
+
+INSERT
+APPEND
+
+SHIFT
+TFIHS
+
+DOLLA
+CARROT
+
+ESCAPE
+ENTER
+SAVE
+QUIT
+BANG
+
+DEFINE
+ITERATE
+WHILE
+IF
+ELIF
+ELSE
+AND
+OR
+TRUE
+FALSE
+COLON
+RETURN
+
+PAREN
+NERAP
+BRACKET
+TEKCARB
+CURLY
+YLRUC
+
+COMMA
+DOT
+SPACE
+QUOTE (")
+TICK (')
+SLASH (/)
+HSALS (\)
+TIMES
+QUESTION
+MINUS
+PLUS
+EQUALS
+
+SCORE (_)
+TILDE (~)
+
+SPELL
+LLEPS
+LISTEN
+NETSIL
+
+ALPHA
+BRAVO
+CHARLIE
+DELTA
+ECHO
+FOXTROT
+GOLF
+HOTEL
+INDIA
+JULIET
+KILO
+LIMA
+MIKE
+NOVEMBER
+OSCAR
+PAPA
+QUEBEC
+ROMEO
+SIERRA
+TANGO
+UNIFORM
+VICTOR
+WHISKEY
+X-RAY
+YANKEE
+ZULU
+
+ZERO
+ONE
+TWO
+THREE
+FOUR
+FIVE
+SIX
+SEVEN
+EIGHT
+NINE
+
+NORTH
+SOUTH
+EAST
+WEST
+COMPLETE
+TAB
+SHOOP
+HUG
+CAPITALIZE
+ASSIGN
+NEWLINE
+GREATER
+LESSER
+
+***************
+
+1. down down up word word word right replace charlie
+2. wake down append enter listen snore
+3. eight goto word word word back delete word insert lima mike alpha oscar escape
+4. insert yankee oscar lima south south complete space zulu echo bravo romeo alpha escape colon whiskey
+5. low dolla delete back insert uniform sierra alpha escape
+6. six down bigword match xray insert victor india mike sierra uniform charlie kilo sierra
+7. nine down up right right right right left visualmode dolla back copy escape three up paste
+8. wake seven left delete down insert listen tango quebec uniform alpha india november netsil
+9. visualline four down colon sierra slash papa echo november india sierra slash victor alpha golf enter
+10. five goto visualblock four down colon delta enter six up up word paste
+11. three goto eight seek paren match delete bigback insert juliet echo foxtrot foxtrot escape fileend
+12. insert enter define kilo india lima oscar shoop lima india november score foxtrot echo shoop india echo lima delta sierra paren nerap colon enter
+13. if tango hotel india november golf colon enter iterate xray space india november space xray romeo alpha november golf echo paren seven nerap colon
+14. wake while paren uniform score charlie alpha november space and alpha lima india victor echo nerap colon enter zulu space plus equals space one
+15. filebegin insert papa romeo india november tango space quote tilde juliet minus mike score yankee quote comma space bravo oscar xray escape
+16. append colon enter foxtrot uniform november bracket two five nine tekcarb space equals space four
+17. insert curly tango alpha tango alpha lima shoop comma space quote tilde delta uniform india quote ylruc
+18. wake append quebec uniform echo sierra tango india oscar november dot mike alpha south north complete
+19. append enter tab xray space equals space curly listen return netsil comma space tick golf oscar tick ylruc enter yankee space equals space bracket tick whiskey tick tekcarb escape middle
+20. insert iterate tango oscar mike india oscar space india november space papa alpha papa alpha dot sierra tango uniform foxtrot foxtrot colon enter if paren delta oscar golf space and charlie alpha tango nerap colon enter return bravo india romeo delta
+21. visualmode end capitalize escape
+22. visualmode dolla colon sierra slash november echo mike oscar slash romeo echo mike oscar enter
+23. fileend up carrot insert listen question plus netsil curly enter tab foxtrot comma enter quebec comma enter juliet comma enter zulu ylruc
+24. west hug shoop east spell tilde if bang lleps insert paren alpha score bravo score charlie escape
+25. save quit
+26. colon quebec bang enter
+27. left left back zero down two seek paren match previous previous right delete word
+28. right replace hsals right insert november escape
+29. high down down word delete dolla append true
+30. insert hotel oscar tango echo lima space equals space bracket false comma space true tekcarb
+31. alpha space equals space mike space minus space paren golf space plus space kilo nerap escape
+32. kees foxtrot replace quebec filebegin word word next again visualmode capitalize
+33. if listen snore wake netsil colon enter hotel space equals space zulu enter shoop elif paren yankee space or tango romeo alpha papa sierra nerap colon enter shoop else colon
+34. quote hsals november space oscar oscar papa sierra quote
+35. one three eight goto delete delete insert tick tilde romeo juliet space lima uniform papa india november tick space
+36. high visualline three down colon sierra slash foxtrot romeo oscar golf slash tango oscar alpha delta enter two nine goto carrot delete word insert tick listen west plus netsil tick snore
+37. wake fileend egap down right seek whiskey replace yankee snore
+38. wake listen goto hug east next backward netsil space equals space false escape save quit
+39. wake middle five seek oscar insert question space escape snore
+40. wake define listen netsil paren mike score india golf score zulu tango uniform victor comma space juliet alpha november india echo nerap colon enter sierra space equals space
+41. curly one comma space two comma space three comma space four comma space five ylruc
+42. insert foxtrot oscar oscar dot golf echo tango whiskey complete escape filebegin snore
+43. visualmode word word word cut up up left left left paste save
+44. quote listen carrot append goto west netsil space hsals november quote enter snore
+45. forward forward middle down tab insert while paren xray space or bravo echo sierra tango score delta oscar golf nerap colon enter xray space equals space mike yankee score hotel alpha tango escape
+46. visualline five down shift escape one zero down carrot insert zulu bracket tick alpha tick tekcarb
+47. visualline two down tfihs escape one six goto seek hsals right replace november capitalize
+48. echo bracket tick kilo alpha kilo india sierra tick tekcarb space equals space listen
+49. undo undo down word bigword right insert delta romeo alpha india mike alpha november shoop shoop oscar
+50. escape undo seven zero goto two seek xray capitalize seek xray again capitalize save quit
+51. bigback back delete dolla insert if bang paren hotel nerap colon enter yankee space plus victor
+52. forward page down down word delete carrot insert listen tab east netsil save
+53. insert india mic papa oscar romeo tango space <breath> <sil> november uniform mic papa yankee space alpha sierra space november papa enter
+54. newline victor echo romeo india foxtrot yankee assign bracket delta uniform papa comma space one zero zero comma space tick xray tick comma space curly tick hotel tick colon space charlie ylruc comma space quote tango hotel echo tango lima shoop alpha quote tekcarb
+55. high egap up right word visualmode three word copy escape five up append paste space bravo mike whiskey space charlie alpha victor echo escape save
+56. bigword bigword right right replace whiskey four word delete word insert juliet echo sierra
+57. low page page six word delete dolla append curly quote bravo quote colon space charlie comma space quote hotel quote colon space juliet comma space quote kilo quote colon space quebec ylruc
+58. page page page page egap forward down eight seek victor replace uniform filebegin
+59. three nine goto seek quote match left left insert tilde bravo romeo alpha victor oscar escape
+60. fileend newline whiskey echo echo delta lima echo assign tick foxtrot uniform charlie kilo tick
+61. page down down down slash bravo uniform november sierra enter replace hotel egap save
+62. fileend newline whiskey assign kilo space slash juliet escape up previous previous visualmode
+63. visualline two down cut page forward forward slash juliet oscar bravo enter next end paste
+64. visualblock four down colon sierra slash whiskey india kilo sierra echo romeo slash hotel echo lima india oscar enter escape page slash victor india papa enter right right right insert
+65. slash mike oscar november tango echo zulu uniform mike alpha enter kees hsals
+66. if paren quebec space tfihs space charlie slash victor nerap colon enter juliet assign one nine enter shoop elif paren quebec space equals equals space charlie slash victor nerap colon enter juliet assign two eight enter shoop else juliet assign four zero escape save quit
+67. page down three down seek kilo delete word delete word insert bracket whiskey tekcarb
+68. slash tango hotel echo enter newline tab tab tab zulu dot charlie hotel south complete escape
+69. if shoop shoop shoop iterate quebec space india november space victor echo charlie colon enter
+70. egap up up word word previous word right insert juliet uniform mike papa space and bravo snore
+71. wake slash victor echo charlie enter kees delta delete word again insert minus space yankee
+72. egap egap five up delete dolla insert bravo space plus space charlie dot kilo south complete
+73. back back visualmode word word copy escape page seven down carrot paste
+74. visualline fileend cut undo redo escape middle visualmode end hug kees hsals
+75. wake seven eight goto three seek dot right delete word insert juliet alpha bravo space minus space xray snore
+76. append enter quebec assign kilo dot foxtrot oscar complete space question space victor space colon space whiskey dot victor echo charlie escape
+77. iterate hotel uniform mike alpha november space india november space bravo dot whiskey complete
+78. page egap forward backward up dolla back back end insert kilo space or juliet oscar victor
+79. one eight shoop four eight space tilde shoop shoop shoop xray space or charlie escape kees xray
+80. next replace whiskey seven two goto delete delete undo undo newline bravo assign zulu dot kilo
+81. three kees sierra visualmode end copy escape filebegin save slash papa echo tango oscar enter
+82. forward forward forward up up seek mike insert one four seven escape carrot eight nine goto quit
+83. visualline six down tfihs escape seven up up back bigback insert victor oscar xray assign whiskey
+84. while paren bravo space equals equals space zero nerap colon enter juliet assign kilo space plus
+85. insert if enter elif enter else escape up up up append paren romeo space shift equals space quebec space or charlie space tfihs space zero nerap colon enter bravo oscar oscar dot tango yankee
+86. victor india mike dot south south south south complete next next
+87. dolla back back insert quote shift space question quote escape slash uniform victor charlie enter
+88. forward two up three left replace whiskey seek bravo next visualmode dolla append shoop shoop
+89. visualblock down down colon sierra slash tango oscar delta delta slash bravo inda lima lima enter
+90. page down down visualline four down shift shift escape seven zero goto seek quebec next previous
+91. newline if paren bravo dot complete space and charlie dot foxtrot uniform south complete nerap colon
+92. right down word bigword right delete zero insert iterate tango uniform golf space india november space listen tick plus tick netsil escape save snore
+93. dolla bigback bigback undo left left match append whiskey assign zero escape filebegin save quit
+94. fileend newline enter define victor echo tango score quebec uniform india charlie kilo paren nerap
+95. dolla bigback visualmode end capitalize escape back down fileend append kilo assign juliet escape
+96. down newline while charlie dot south south complete colon enter hotel assign true enter snore
+97. up left left zero iterate zulu space india november space xray romeo alpha november golf echo
+98. page down carrot insert juliet uniform november kilo dot xray space question space yankee snore
+99. backward word again again previous delete word insert whiskey hotel alpha tango escape next
+100. fileend egap five up elif paren xray space minus yankee space shift space alpha space plus space
+101. bravo nerap colon enter juliet india lima lima assign kilo india november space question space quebec dot xray space colon space victor escape save snore
+102. fileend high down dolla kees golf insert juliet space times space bravo escape backward snore
+103. slash xray romeo alpha yankee enter next append oscar sierra xray assign kilo times uniform
+104. quote tilde november space times space hsals november quote comma space listen netsil
+105. charlie lima shoop shoop charlie lima alpha sierra sierra space bravo sierra tango score november oscar delta echo paren nerap colon enter enter score score shoop shoop define score score india november india tango score score paren nerap colon enter
+106. sierra lima shoop echo lima foxtrot dot romeo oscar oscar tango assign romeo india golf hotel tango enter enter enter shoop shoop shoop
+107. previous insert previous space charlie romeo echo alpha tango echo space victor oscar india charlie echo space victor
+108. india mike space sierra charlie romeo india papa tango sierra space foxtrot romeo oscar mike space victor india mike space lima oscar
+109. golf space foxtrot india lima echo sierra space charlie romeo echo alpha tango echo delta space whiskey india tango hotel space minus whiskey space oscar
+110. papa tango india oscar november enter victor india mike capitalize lima oscar golf assign tick tick shoop shoop quote quote enter
+111. whiskey india tango hotel space oscar papa echo november paren shoop shoop shoop shoop shoop shoop shoop shoop shoop shoop
+112. delta echo foxtrot india shoop space golf echo tango capitalize lima oscar golf capitalize foxtrot romeo oscar mike capitalize foxtrot india lima echo paren
+113. foxtrot india lima echo november alpha mike echo nerap colon enter whiskey india tango hotel space oscar papa
+114. echo november paren foxtrot india lima echo november alpha mike echo nerap space alpha sierra space foxtrot colon enter sierra
+115. assign foxtrot dot romeo echo alpha delta paren nerap enter return space sierra escape newline shoop oscar shoop enter victor india
+116. mike capitalize lima oscar golf shoop shoop shoop shoop shoop shoop define space golf echo november capitalize sierra charlie romeo
+117. india papa tango paren lima oscar golf nerap colon enter charlie hotel alpha romeo capitalize charlie oscar uniform november
+118. tango assign lima echo november paren lima oscar golf nerap enter charlie hotel alpha romeo capitalize india november delta echo xray assign zero
+119. enter escape up up up whiskey whiskey match insert comma space charlie oscar mike mike alpha november delta capitalize mike alpha papa
+120. escape up newline define space golf echo november capitalize charlie oscar mike mike alpha november
+121. delta capitalize mike alpha papa paren mike alpha papa foxtrot india lima echo nerap colon enter enter north tab whiskey india tango hotel space
+122. oscar papa echo november paren mike alpha papa foxtrot india lima echo nerap space alpha sierra space foxtrot colon
+123. enter lima india november echo sierra shoop shoop shoop shoop shoop alpha lima lima score lima india november echo sierra assign
+124. lima india sierra tango paren foxtrot nerap enter shoop escape colon whiskey quebec enter seven one goto space fileend insert define
+125. space foxtrot india november delta capitalize sierra hotel oscar romeo tango capitalize hotel alpha november delta sierra paren sierra charlie romeo india
+126. papa tango nerap colon enter quote quote quote capitalize sierra oscar mike echo space charlie hotel
+127. alpha romeo alpha charlie tango echo romeo space sierra echo quebec uniform echo november charlie echo
+128. sierra space alpha romeo echo space charlie oscar mike mike oscar november space echo november oscar uniform golf hotel space tango oscar space whiskey
+129. alpha romeo romeo alpha november tango space tango hotel echo india romeo space oscar
+130. whiskey november enter charlie oscar mike mike and space whiskey oscar romeo delta dot space capitalize foxtrot india november delta space tango
+131. hotel oscar sierra echo space sierra echo quebec uniform echo november charlie echo sierra space and space romeo echo papa lima alpha
+132. charlie echo space tango hotel echo mike space whiskey india tango hotel space tango hotel echo india romeo space whiskey
+133. oscar romeo delta dot quote quote quote enter sierra hotel oscar romeo tango assign
+134. bracket quote sierra papa alpha charlie echo quote comma space quote echo quebec uniform alpha lima sierra quote
+135. comma space sierra shoop quote sierra papa alpha charlie echo quote tekcarb enter iterate space sierra space india november space sierra charlie romeo india
+136. papa tango colon enter if escape delete delete delete delete newline india november delta echo xray assign zero enter sierra
+137. india zulu echo assign sierra charlie romeo india papa tango shoop shoop shoop shoop shoop shoop lima echo november
+138. paren sierra charlie romeo india papa tango nerap enter while space india november delta echo xray space lesser
+139. space sierra india zulu echo colon enter if space paren india november delta echo xray space plus space sierra hotel oscar romeo tango dot shoop shoop
+140. shoop shoop shoop shoop lima echo november paren sierra hotel oscar romeo tango nerap space lesser space sierra india zulu echo space and enter
+141. escape up dolla delete back xray replace nerap append colon escape
+142. up down down delete delete newline mike alpha tango charlie hotel assign foxtrot alpha shoop shoop false enter iterate space india space
+143. india november space xray romeo alpha november golf echo paren lima echo november paren sierra hotel oscar romeo romeo tango shoop
+144. shoop shoop tango shoop romeo tango nerap nerap colon enter if space sierra hotel oscar romeo tango
+145. bracket india tekcarb space bang equals space space sierra charlie romeo india papa tango bracket india november delta echo xray
+146. plus india tekcarb colon enter mike alpha tango charlie hotel assign false enter bravo romeo echo alpha kilo escape
+147. one zero two whiskey whiskey delete whiskey append true escape five down newline shoop if space mike alpha tango charlie hotel
+148. colon enter iterate space india space india november space xray romeo alpha november golf echo paren lima echo november paren
+149. sierra hotel oscar romeo tango nerap nerap colon enter sierra charlie romeo india papa tango bracket india november delta echo
+150. xray plus india tekcarb assign quote quote space space space previous shoop shoop previous space delta echo
+151. lima echo tango echo space tango hotel echo space sierra echo quebec uniform echo november charlie echo
+152. escape down newline shoop sierra charlie romeo india papa tango bracket india november delta echo xray tekcarb assign whiskey oscar romeo delta space space previous space romeo
+153. echo papa lima alpha charlie echo space india tango space whiskey india tango hotel space tango hotel echo space sierra hotel
+154. oscar romeo tango hotel and escape newline shoop shoop india november delta echo xray space plus equals space one escape
+155. nine seven newline whiskey oscar romeo delta assign quote alpha sierra sierra india golf november quote escape save enter nine
+156. three newline escape one zero six seek plus kees equals right xray save enter quit enter two eight goto space three nine seek
+157. two xray xray insert charlie hotel alpha romeo charlie shoop capitalize charlie oscar uniform november tango escape save enter quit enter nine
+158. five goto space fileend newline shoop return space sierra charlie romeo india papa tango escape save enter quit enter
+159. two eight goto space six seven down down forward up up space forward nine one newline sierra charlie
+160. romeo india papa tango assign foxtrot india lima tango echo romeo paren lima alpha mike delta
+161. alpha shoop shoop bravo delta alpha space alpha space shoop colon space alpha space bang equals space quote quote comma
+162. space sierra charlie romeo india papa tango nerap escape save enter quit enter two eight goto space six
+163. one delete delete save enter quit enter fileend space newline enter enter define space whiskey romeo india tango echo capitalize sierra charlie
+164. romeo india papa tango capitalize tango oscar capitalize foxtrot india lima echo paren foxtrot india lima echo november alpha mike echo
+165. equals sierra charlie romeo india papa tango dot tango xray tango comma space shoop shoop shoop shoop escape xray xray back
+166. insert quote escape end append quote shoop dot tango xray tango quote comma space lima india november echo capitalize lima
+167. echo november capitalize mike echo alpha november equals two zero comma space lima india november echo capitalize lima echo november shoop shoop
+168. shoop capitalize sierra tango delta capitalize delta echo victor equals three comma space charlie oscar uniform november tango shoop shoop shoop shoop shoop shoop
+169. enter charlie oscar uniform november tango capitalize foxtrot romeo oscar mike equals one nerap escape match append sierra charlie
+170. romeo india papa tango comma space escape fileend newline tab quote quote quote capitalize sierra papa lima india
+171. tango space alpha space sierra charlie romeo india papa tango space india november tango oscar space alpha space
+172. sierra echo romeo india echo sierra space oscar foxtrot space lima india november echo sierra space lima shoop whiskey india tango hotel
+173. space lima echo november golf hotel equals shoop shoop tango hotel space delta echo tango echo romeo mike india november echo
+174. delta space alpha space november oscar romeo mike alpha lima space shoop enter delta india
+175. sierra tango romeo india bravo uniform tango india oscar november dot space capitalize foxtrot or space charlie oscar november sierra tango alpha november tango
+176. space lima echo november golf tango hotel space lima india november echo sierra space sierra echo tango space lima india november echo capitalize sierra tango
+177. delta capitalize delta echo victor space tango oscar space juliet zero shoop shoop zero dot space capitalize lima india november
+178. echo sierra space alpha space papa romeo echo papa echo november shoop shoop shoop shoop shoop shoop shoop shoop
+179. alpha romeo echo enter papa romeo echo papa echo november delta echo delta space whiskey india tango hotel space alpha space november uniform mike
+180. bravo echo romeo space uniform november lima echo sierra sierra space charlie oscar uniform november tango capitalize foxtrot romeo
+181. oscar mike space india sierra space sierra echo tango space tango oscar space zero dot quote quote quote escape up up end append
+182. space bravo yankee escape fileend newline whiskey india tango hotel space oscar papa echo november paren foxtrot india lima
+183. echo november alpha mike echo comma space alpha shoop tick alpha tick nerap space alpha sierra space foxtrot colon enter while space november oscar tango
+184. space delta oscar november echo escape capitalize oscar delete newline november echo assign foxtrot lima alpha shoop shoop shoop false escape
+185. down capitalize alpha colon enter south south south south south south right end november tango left space shoop shoop shoop shoop shoop
+186. shoop assign november again replace append november delta oscar mike dot november oscar romeo mike alpha lima paren
+187. lima india november echo capitalize lima echo november capitalize mike echo alpha november comma space lima india november echo capitalize sierra tango delta capitalize delta
+188. echo victor delta shoop nerap enter lima assign lima shoop mike alpha tango hotel dot foxtrot lima oscar or paren lima
+189. nerap space if space lima space minus space mike alpha tango hotel dot foxtrot lima oscar or
+190. paren lima nerap space lesser space dot shoop zero dot four shoop five space else space mike
+191. alpha tango hotel dot charlie echo india lima paren lima nerap escape down newline india mike papa oscar romeo tango space november uniform mike
+192. papa yankee space alpha sierra space november papa escape capitalize oscar insert mike papa oscar romeo tango space mike alpha tango hotel escape
+193. fileend forward zulu zulu zulu zulu zulu zulu zulu zulu zulu zulu zulu zulu zulu zulu up up
+194. up capitalize oscar insert november delta echo xray assign zero escape four down capitalize oscar escape undo newline lima assign mike india november paren lima
+195. comma space sierra charlie romeo india papa tango shoop shoop shoop shoop shoop shoop lima echo november paren sierra charlie romeo
+196. india papa tango nerap space minus space space india november delta echo xray space minus space one nerap escape back back back
+197. insert shoop space escape up up up delete back delete back insert india november delta echo xray space
+198. lesser space lima echo november paren sierra charlie romeo india papa tango nerap escape down down down newline juliet dot whiskey romeo
+199. india tango echo lima india november echo paren shoop shoop shoop shoop shoop shoop shoop shoop shoop
+200. shoop shoop shoop papa romeo echo foxtrot india xray assign charlie uniform shoop oscar uniform november tango capitalize foxtrot romeo oscar
+201. mike nerap escape back insert sierra tango romeo paren escape dolla append space plus space quote dot space quote space if space
+202. charlie oscar uniform november tango capitalize foxtrot romeo oscar mike space else space quote quote enter foxtrot dot whiskey romeo india tango
+203. echo lima india november echo paren papa romeo echo foxtrot india xray space plus space
+204. quote space quote dot juliet oscar india november paren sierra charlie romeo india papa tango bracket india november delta
+205. echo xray colon india november delta echo xray plus shoop plus lima tekcarb enter shoop
+206. escape up dolla append nerap escape down delete delete newline escape up dolla append
+207. nerap escape down delete delete newline india november delta echo xray space plus shoop plus equals space lima escape one two six delete
+208. delete fileend newline charlie oscar uniform november tango shoop shoop shoop shoop shoop if space charlie
+209. oscar uniform november tango capitalize foxtrot romeo oscar mike colon enter charlie oscar uniform november tango capitalize foxtrot romeo oscar mike space plus equals space one
+210. escape backward backward three zero goto space forward forward seven two goto space forward six down up left
+211. left left left left delete dolla append space shoop sierra charlie romeo india papa tango escape save enter one two zero
+212. up dolla back back back insert shoop enter escape up whiskey whiskey right right insert shoop enter escape
+213. bigword bigword insert shoop enter escape save enter down down down down up up up down dolla append colon
+214. escape save enter forward three up right right right right right right right delete carrot insert papa romeo india november tango escape right match
+215. insert comma space foxtrot escape save enter one three two right right right right right right right right insert india november tango paren escape
+216. right append nerap escape save enter one three two newline lima assign mike
+217. alpha xray paren lima comma space one nerap escape save enter delete delete down down dolla insert
+218. mike alpha xray paren one comma space escape right append nerap escape save enter up dolla left left left xray xray xray
+219. xray bigback bigback bigback bigback right right right right right replace space newline foxtrot dot whiskey romeo
+220. india tango echo paren papa romeo echo foxtrot india xray shoop shoop shoop shoop shoop shoop escape up left visualmode dolla delete insert
+221. enter escape dolla dolla append nerap hotel shoop escape left right insert space plus space quote hsals november quote escape
+222. up delete delete down delete delete save enter south south south south forward one three zero capitalize oscar if space right insert november echo
+223. capitalize sierra tango delta capitalize delta echo victor colon escape down visualline down greater down newline shoop else colon enter lima assign lima india november echo
+224. capitalize lima echo november capitalize mike echo alpha november escape save enter colon whiskey shoop quebec enter fileend space newline
+225. enter enter shoop shoop shoop shoop define space tango echo sierra tango capitalize india tango paren nerap colon enter charlie oscar
+226. mike alpha papa assign golf echo november tick shoop capitalize charlie oscar mike mike alpha november delta capitalize mike alpha papa paren
+227. nerap shoop tick charlie oscar mike mike alpha november delta capitalize mike papa shoop alpha papa dot tango xray
+228. tango tick nerap enter lima oscar golf assign shoop shoop shoop shoop shoop shoop tango echo
+229. sierra tango capitalize lima oscar golf assign golf echo tango capitalize lima oscar golf capitalize foxtrot romeo oscar mike capitalize foxtrot india lima echo
+230. paren tick shoop lima oscar golf capitalize foxtrot india lima echo nerap enter golf echo november capitalize sierra charlie romeo india papa tango
+231. paren tango echo sierra tango capitalize lima oscar golf comma space charlie oscar mike alpha papa nerap escape carrot insert november shoop sierra charlie
+232. romeo india papa tango assign escape up up up left right newline golf escape undo left insert lima oscar golf
+233. capitalize foxtrot india lima echo escape down down down newline whiskey romeo india tango echo capitalize sierra charlie romeo india papa tango capitalize tango oscar capitalize foxtrot india
+234. lima echo paren sierra charlie romeo india papa tango nerap escape save enter right one three six newline papa
+235. romeo india november tango space quote match delta colon match delta quote space match space india november delta echo xray shoop shoop shoop
+236. shoop shoop paren india november delta echo xray comma space india november charlie echo xray shoop shoop shoop delta
+237. echo xray plus lima nerap escape save enter one two eight newline papa romeo india november tango space lima
+238. echo november paren sierra charlie romeo india papa tango nerap escape bigback insert quote sierra charlie romeo india papa tango space india sierra space
+239. match sierra space shoop shoop delta space charlie hotel alpha romeo sierra shoop shoop shoop shoop shoop whiskey oscar
+240. romeo delta sierra space lima oscar november golf quote space match space escape save enter down right left left
+241. left left left left left left left left left insert paren escape whiskey bigword up dolla insert space minus space one
+242. nerap escape save enter fileend quit enter insert india mike papa oscar romeo tango space sierra yankee sierra enter enter foxtrot
+243. assign oscar papa echo november paren sierra yankee sierra dot alpha romeo enter paren one nerap comma space tick romeo plus
+244. tick nerap enter alpha lima lima score lima india november echo sierra assign bracket tekcarb enter foxtrot
+245. oscar romeo shoop shoop shoop while space lima india november echo assign foxtrot dot romeo echo alpha delta shoop shoop shoop shoop
+246. xray shoop escape right append romeo echo alpha delta lima india november echo paren nerap colon enter alpha lima
+247. lima score lima india november echo sierra dot alpha papa enter paren lima india november echo nerap enter
+248. enter shoop alpha lima lima score lima india november echo sierra dot sierra enter paren nerap escape up delete
+249. two up up word word delete word append lima india sierra tango paren foxtrot nerap
+250. escape up bigback delete zero insert whiskey india tango hotel space escape dolla append space alpha sierra space foxtrot colon escape down
+251. visualline down greater down newline iterate space lima india november echo space india november
+252. space alpha lima lima score lima india november echo sierra colon enter foxtrot dot whiskey romeo india tango echo
+253. paren shoop lima india november echo paren lima india november echo nerap escape up up newline foxtrot dot sierra echo
+254. echo kilo paren zero nerap escape down down newline escape up whiskey whiskey five right right delete end save enter
+255. up down down delete delete save enter three bigword bigword left left left left left replace bracket bracket right right
+256. right replace tekcarb save enter quit enter page egap forward backward quit enter south east north west quit enter visualblock escape quit
+257. enter quit enter fileend space four up whiskey match insert comma space charlie mike equals tick
+258. charlie oscar mike mike alpha november delta capitalize mike alpha papa dot tango xray tango tick escape down right
+259. right right right delete match append paren charlie mike nerap escape up end bigword bigback word word
+260. word word word append comma space tango alpha romeo golf echo tango equals capitalize november oscar november echo escape up up space one
+261. four five zulu equals page backward up up up up fileend dolla insert comma space tango alpha romeo golf echo tango space if
+262. space tango alpha romeo golf echo echo tango shoop shoop tango space else space quote sierra charlie romeo india
+263. papa tango dot tango xray tango quote escape five back two back back insert foxtrot india lima echo
+264. november alpha mike echo assign escape save enter xray left left xray save enter quit

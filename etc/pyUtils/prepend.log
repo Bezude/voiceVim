@@ -1,0 +1,1 @@
+idef prepend(filename):with open(filename, 'r+'):€kbas €kb€kb€kb as f:lines = list(f)newLines = ""for line in lines:newLines += p + lineo€kbf.seek(0)f.write(newLines)€kb€kbprepend('voiceVim_train.fileids', cleaned€kb€kb€kb€kb€kb€kb€kb'cleaned/')ggf($hi, pGoprepend('voiceVim_test.fileids', 'cleaned/'):w:q

@@ -1,0 +1,66 @@
+WDBNDRY_B
+WDBNDRY_E
+WDBNDRY_S
+WDBNDRY_I
+SILENCE   SIL
+QUESTION0_0_R  aa ah ay b ch d dh e ee f g hh hr i j k l m n oa p r s sh t th uu v w x y z zh
+QUESTION0_1_R  b d dh f k m n p sh t v y
+QUESTION0_2_R  m n
+QUESTION0_3_R  b d dh f k p sh t v y
+QUESTION0_4_R  dh k t
+QUESTION0_5_R  dh t
+QUESTION0_6_R  b d f p sh v y
+QUESTION0_7_R  aa ah ay ch e ee g hh hr i j l oa r s th uu w x z zh
+QUESTION0_8_R  aa ay e ee g hh hr i uu
+QUESTION0_9_R  ah ch j l oa r s th w x z zh
+QUESTION0_10_R  s z
+QUESTION0_11_R  ah ch j l oa r th w x zh
+QUESTION0_12_R  ah ch j l oa th w x zh
+QUESTION0_13_R  ah l oa th w zh
+QUESTION0_14_R  ah l oa th zh
+QUESTION0_15_R  l oa th zh
+QUESTION0_16_R  oa th
+QUESTION0_17_R  l zh
+QUESTION0_18_R  ch j x
+QUESTION0_19_R  ch j
+QUESTION0_20_R  ii ng oh ow uh
+QUESTION0  d n p s
+QUESTION1  s
+QUESTION2  d n p
+QUESTION3  aa ah ay b ch dh e ee f g hh hr i ii j k l m ng oa oh ow r sh t th uh uu v w x y z zh
+QUESTION4  aa ah ay e ee hr ii l m ng oa oh ow r uh uu
+QUESTION5  b ch dh f g hh i j k sh t th v w x y z zh
+QUESTION6  ch j sh x z
+QUESTION7  x z
+QUESTION8  ch j sh
+QUESTION9  ch j
+QUESTION10  b dh f g hh i k t th v w y zh
+QUESTION11  g i v y
+QUESTION12  b dh f hh k t th w zh
+QUESTION13  b dh f hh w zh
+QUESTION14  b dh f hh zh
+QUESTION15  f zh
+QUESTION16  b dh hh
+QUESTION17  b hh
+QUESTION18  k t th
+QUESTION19  k th
+QUESTION2_0_L  aa ah ay ch d dh e ee g hh i ii k l m n ng oa p r s sh t th v w x y z zh
+QUESTION2_1_L  ch d k n p s sh t x z
+QUESTION2_2_L  aa ah ay dh e ee g hh i ii l m ng oa r th v w y zh
+QUESTION2_3_L  ay ee g i ii ng th y
+QUESTION2_4_L  ee g y
+QUESTION2_5_L  ay i ii ng th
+QUESTION2_6_L  ay i ii th
+QUESTION2_7_L  i ii th
+QUESTION2_8_L  i th
+QUESTION2_9_L  aa ah dh e hh l m oa r v w zh
+QUESTION2_10_L  aa ah dh e hh oa r v zh
+QUESTION2_11_L  oa r
+QUESTION2_12_L  aa ah dh e hh v zh
+QUESTION2_13_L  e v
+QUESTION2_14_L  aa ah dh hh zh
+QUESTION2_15_L  aa ah
+QUESTION2_16_L  dh hh zh
+QUESTION2_17_L  hh zh
+QUESTION2_18_L  l m w
+QUESTION2_19_L  b f hr j oh ow uh uu
