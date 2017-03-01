@@ -48,3 +48,6 @@ test.cpp
 # Audio Data
 *.wav
 *.mfc
+
+# Log directory for VoiceVim
+logdir/
